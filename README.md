@@ -10,7 +10,7 @@ This is a medication delivery by drone project
   
   Postman(Api Testing)
 
--Clone the project from the link : 
+-Clone the project. 
 
 -Open the cloned project in the IDE.
 
@@ -27,6 +27,8 @@ This is a medication delivery by drone project
     -Drone can load multiple medicines as long as combine medicine weight does not exceed weight capacity of drone
     
 -In Log folder, the logs are maintain for each day which contains Drone's Battery Level
+![image](https://user-images.githubusercontent.com/30953824/189738642-fa093b8e-d1bd-4e22-b38c-07d92196442e.png)
+
 
 -Project has H2 in-memory database configiration and has some data loaded automatically in it upon running.
   
